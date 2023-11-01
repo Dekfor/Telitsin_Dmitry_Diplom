@@ -1,3 +1,4 @@
+# Телицин Дмитрий, 9-я когорта — Финальный проект. Инженер по тестированию плюс.
 import pytest
 from configuration import create_order, get_order
 from data import headers, user_body
